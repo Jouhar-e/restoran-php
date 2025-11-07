@@ -36,10 +36,10 @@ $db = new DB();
 
             <div class="col-md-2 mt-4">
                 <div class="list-group">
-                    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+                    <a href="?f=kategori&&m=select" class="list-group-item list-group-item-action active" aria-current="true">
                         Kategori Menu
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action">Menu</a>
+                    <a href="?f=menu&&m=select" class="list-group-item list-group-item-action">Menu</a>
                     <a href="#" class="list-group-item list-group-item-action">A third link item</a>
                     <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
                     <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">A disabled link item</a>
